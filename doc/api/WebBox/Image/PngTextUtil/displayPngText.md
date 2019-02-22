@@ -35,11 +35,13 @@ This can optionally be prefixed with a pound symbol (#).
 Parameters
 --------------
 
+
 - text
+        
 
-    - options
+- options
+        
 
-    
 
 Return values
 ----------------
