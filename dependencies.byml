@@ -1,3 +1,4 @@
-universe:
-    ling:
-        Bat: *
+dependencies: 
+    - ling.Bat
+
+post_install: []
