@@ -15,6 +15,6 @@ Table of contents
 
 Dependencies
 ============
-- [Universe: Bat](https://github.com/karayabin/universe-snapshot/tree/master/universe/Bat)
+- [Universe: Bat](https://github.com/karayabin/universe-snapshot/tree/master/universe/Ling/Bat)
 
 

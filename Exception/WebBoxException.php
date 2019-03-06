@@ -1,7 +1,7 @@
 <?php
 
 
-namespace WebBox\Exception;
+namespace Ling\WebBox\Exception;
 
 
 /**

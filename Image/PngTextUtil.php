@@ -1,11 +1,11 @@
 <?php
 
 
-namespace WebBox\Image;
+namespace Ling\WebBox\Image;
 
 
-use Bat\ConvertTool;
-use WebBox\Exception\WebBoxException;
+use Ling\Bat\ConvertTool;
+use Ling\WebBox\Exception\WebBoxException;
 
 /**
  * The PngTextUtil class.
