@@ -1,5 +1,5 @@
-[Back to the WebBox api](https://github.com/lingtalfi/WebBox/blob/master/doc/api/WebBox.md)<br>
-[Back to the WebBox\Image\PngTextUtil class](https://github.com/lingtalfi/WebBox/blob/master/doc/api/WebBox/Image/PngTextUtil.md)
+[Back to the Ling/WebBox api](https://github.com/lingtalfi/WebBox/blob/master/doc/api/Ling/WebBox.md)<br>
+[Back to the Ling\WebBox\Image\PngTextUtil class](https://github.com/lingtalfi/WebBox/blob/master/doc/api/Ling/WebBox/Image/PngTextUtil.md)
 
 
 PngTextUtil::displayPngText
@@ -16,7 +16,7 @@ Description
 ================
 
 
-public static [PngTextUtil::displayPngText](https://github.com/lingtalfi/WebBox/blob/master/doc/api/WebBox/Image/PngTextUtil/displayPngText.md)(string $text, array $options = []) : void
+public static [PngTextUtil::displayPngText](https://github.com/lingtalfi/WebBox/blob/master/doc/api/Ling/WebBox/Image/PngTextUtil/displayPngText.md)(string $text, array $options = []) : void
 
 
 
@@ -60,6 +60,14 @@ Return values
 Returns void.
 
 
+Exceptions thrown
+================
+
+- [BatException](https://github.com/lingtalfi/Bat/blob/master/Exception/BatException.php).&nbsp;
+
+- [WebBoxException](https://github.com/lingtalfi/WebBox/blob/master/doc/api/Ling/WebBox/Exception/WebBoxException.md).&nbsp;
+
+
 
 
 
@@ -68,7 +76,7 @@ Returns void.
 See Also
 ================
 
-The [PngTextUtil](https://github.com/lingtalfi/WebBox/blob/master/doc/api/WebBox/Image/PngTextUtil.md) class.
+The [PngTextUtil](https://github.com/lingtalfi/WebBox/blob/master/doc/api/Ling/WebBox/Image/PngTextUtil.md) class.
 
 
 

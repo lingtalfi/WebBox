@@ -1,10 +1,10 @@
-[Back to the WebBox api](https://github.com/lingtalfi/WebBox/blob/master/doc/api/WebBox.md)
+[Back to the Ling/WebBox api](https://github.com/lingtalfi/WebBox/blob/master/doc/api/Ling/WebBox.md)
 
 
 
 The WebBoxException class
 ================
-2019-02-22 --> 2019-03-05
+2019-02-22 --> 2019-03-07
 
 
 
@@ -47,9 +47,9 @@ Methods
 
 Location
 =============
-WebBox\Exception\WebBoxException
+Ling\WebBox\Exception\WebBoxException
 
 
 SeeAlso
 ==============
-Next class: [PngTextUtil](https://github.com/lingtalfi/WebBox/blob/master/doc/api/WebBox/Image/PngTextUtil.md)<br>
+Next class: [PngTextUtil](https://github.com/lingtalfi/WebBox/blob/master/doc/api/Ling/WebBox/Image/PngTextUtil.md)<br>
